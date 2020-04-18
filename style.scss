@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+    background-color: #f2f2f2;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+nav li {
+    display: inline;
+    padding-right: 15px;
+}
+
+nav a {
+    color: black;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #404040;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* rankings.html styling */
+
+label {
+    font-weight: bold;
+    color: #20416c;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+th {
+    padding-right: 10px;
+}
