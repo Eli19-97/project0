@@ -38,3 +38,17 @@ table {
 th {
     padding-right: 10px;
 }
+
+#contactname, #contactemail {
+    margin-bottom: 20px;
+}
+
+#helio {
+    width: 100%;
+}
+ 
+@media (max-width: 699px) {
+#messagebox {
+    width: 100%;
+}
+}
